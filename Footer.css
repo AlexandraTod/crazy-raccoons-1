@@ -1,0 +1,50 @@
+body {
+    margin-top:30%;
+    
+}
+
+footer {
+    background-color: #1f2222;
+    height: 320px;
+    color: white;
+
+}
+
+.fa-facebook {
+    color: #3B5998;
+}
+
+.fa-twitter {
+    color: #1DA1F2;
+}
+
+.fa-instagram {
+    color: #9b6954;
+}
+.center-block {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+ }
+.fab:hover {
+    color: white;
+}
+
+ .col-sm-4 {
+     padding-top: 20px;     
+ }
+ ul li,.form-group {
+    padding-top: 30px;
+ }
+
+ li  {
+     padding: 10px 0;
+ }
+
+p {
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 0;
+}
